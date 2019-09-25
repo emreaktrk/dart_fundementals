@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/collections/collections.iml" filepath="$PROJECT_DIR$/collections/collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data_type/data_type.iml" filepath="$PROJECT_DIR$/data_type/data_type.iml" />
+      <module fileurl="file://$PROJECT_DIR$/error_handling/error_handling.iml" filepath="$PROJECT_DIR$/error_handling/error_handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flow_controls/flow_controls.iml" filepath="$PROJECT_DIR$/flow_controls/flow_controls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/functions/functions.iml" filepath="$PROJECT_DIR$/functions/functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fundementals.iml" filepath="$PROJECT_DIR$/fundementals.iml" />
+    </modules>
+  </component>
+</project>
