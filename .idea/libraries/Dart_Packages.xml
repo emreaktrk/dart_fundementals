@@ -187,6 +187,7 @@
         <entry key="pedantic">
           <value>
             <list>
+              <option value="/Applications/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.8.0+1/lib" />
               <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/pedantic-1.8.0+1/lib" />
             </list>
           </value>
@@ -341,6 +342,7 @@
       </option>
     </properties>
     <CLASSES>
+      <root url="file:///Applications/flutter/.pub-cache/hosted/pub.dartlang.org/pedantic-1.8.0+1/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/analyzer-0.38.3/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/args-1.5.2/lib" />
       <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/async-2.3.0/lib" />
